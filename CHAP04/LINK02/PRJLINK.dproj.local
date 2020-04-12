@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/12 13:37:23.647,=C:\Users\27592\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/12 13:38:25.968,F:\参透delphi\CHAP04\LINK02\PRJLINK.dfm=C:\Users\27592\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/04/12 13:38:25.968,F:\参透delphi\CHAP04\LINK02\PRJLINK.pas=C:\Users\27592\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/12 13:39:03.775,F:\参透delphi\CHAP04\LINK02\Link.dfm=F:\参透delphi\CHAP04\LINK02\PRJLINK.dfm</Transaction>
+    <Transaction>2020/04/12 13:39:03.775,F:\参透delphi\CHAP04\LINK02\Link.pas=F:\参透delphi\CHAP04\LINK02\PRJLINK.pas</Transaction>
+    <Transaction>2020/04/12 13:39:20.448,F:\参透delphi\CHAP04\LINK02\PRJLINK.dproj=C:\Users\27592\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/04/12 13:39:35.289,=F:\参透delphi\CHAP04\LINK02\Unit1.pas</Transaction>
+    <Transaction>2020/04/12 13:39:43.066,F:\参透delphi\CHAP04\LINK02\Point.pas=F:\参透delphi\CHAP04\LINK02\Unit1.pas</Transaction>
+    <Transaction>2020/04/12 13:39:47.027,=F:\参透delphi\CHAP04\LINK02\Unit2.pas</Transaction>
+    <Transaction>2020/04/12 13:40:05.678,=F:\参透delphi\CHAP04\LINK02\Unit1.pas</Transaction>
+    <Transaction>2020/04/12 13:40:14.478,F:\参透delphi\CHAP04\LINK02\Table.pas=F:\参透delphi\CHAP04\LINK02\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
